@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Olá mundo!</string>
+    <string name="welcome">Bem-vindo ao desenvolvimento de aplicações android</string>
+    <string name="deitel_logo">Joinha duplo do deitel</string>
+</resources>
